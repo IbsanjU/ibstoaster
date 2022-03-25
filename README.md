@@ -1,6 +1,6 @@
 # ibstoaster
 
-
+[![](https://jitpack.io/v/IbsanjU/ibstoaster.svg)](https://jitpack.io/#IbsanjU/ibstoaster)
 
 Step 1. Add the JitPack repository to your build file
 
